@@ -6,6 +6,9 @@ Materials
 - Battery pack
 - Single-Pole switch
 - Soldering iron/DuPont wires
+- Construction Paper
+- Glue
+- 3D Printer (or cardboard/wood if you want to get even more DIY)
 
 Photos
 -------------------------------------------------------------
