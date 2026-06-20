@@ -2,12 +2,13 @@
 
 Materials
 -------------------------------------------------------------
-- DC Motor
+- DC Motor (works best with those circular coreless ones)
 - Battery pack
+- Batteries
 - Single-Pole switch
 - Soldering iron/DuPont wires
 - Construction Paper
-- Glue
+- Glue/Tape/Velcro
 - 3D Printer (or cardboard/wood if you want to get even more DIY)
 
 Photos
